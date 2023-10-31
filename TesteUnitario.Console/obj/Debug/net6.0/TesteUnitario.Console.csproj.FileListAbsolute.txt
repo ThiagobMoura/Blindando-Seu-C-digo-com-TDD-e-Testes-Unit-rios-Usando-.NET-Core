@@ -1,0 +1,14 @@
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\bin\Debug\net6.0\TesteUnitario.Console.exe
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\bin\Debug\net6.0\TesteUnitario.Console.deps.json
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\bin\Debug\net6.0\TesteUnitario.Console.runtimeconfig.json
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\bin\Debug\net6.0\TesteUnitario.Console.dll
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\bin\Debug\net6.0\TesteUnitario.Console.pdb
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\obj\Debug\net6.0\TesteUnitario.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\obj\Debug\net6.0\TesteUnitario.Console.AssemblyInfoInputs.cache
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\obj\Debug\net6.0\TesteUnitario.Console.AssemblyInfo.cs
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\obj\Debug\net6.0\TesteUnitario.Console.csproj.CoreCompileInputs.cache
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\obj\Debug\net6.0\TesteUnitario.Console.dll
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\obj\Debug\net6.0\refint\TesteUnitario.Console.dll
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\obj\Debug\net6.0\TesteUnitario.Console.pdb
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\obj\Debug\net6.0\TesteUnitario.Console.genruntimeconfig.cache
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\TesteUnitario\TesteUnitario.Console\obj\Debug\net6.0\ref\TesteUnitario.Console.dll

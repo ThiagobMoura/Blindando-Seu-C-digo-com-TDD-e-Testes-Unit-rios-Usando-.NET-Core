@@ -1,0 +1,14 @@
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\bin\Debug\net6.0\NewTalents.Console.exe
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\bin\Debug\net6.0\NewTalents.Console.deps.json
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\bin\Debug\net6.0\NewTalents.Console.runtimeconfig.json
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\bin\Debug\net6.0\NewTalents.Console.dll
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\bin\Debug\net6.0\NewTalents.Console.pdb
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\obj\Debug\net6.0\NewTalents.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\obj\Debug\net6.0\NewTalents.Console.AssemblyInfoInputs.cache
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\obj\Debug\net6.0\NewTalents.Console.AssemblyInfo.cs
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\obj\Debug\net6.0\NewTalents.Console.csproj.CoreCompileInputs.cache
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\obj\Debug\net6.0\NewTalents.Console.dll
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\obj\Debug\net6.0\refint\NewTalents.Console.dll
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\obj\Debug\net6.0\NewTalents.Console.pdb
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\obj\Debug\net6.0\NewTalents.Console.genruntimeconfig.cache
+D:\i7\Estudo\GITHUB\csharp\projeto_tdd\NewTalents\NewTalents.Console\obj\Debug\net6.0\ref\NewTalents.Console.dll
